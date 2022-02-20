@@ -1,3 +1,4 @@
 <Html>
+<title>This is issue title</title>
 <Body></Body>
 </Html>
