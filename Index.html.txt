@@ -1,4 +1,4 @@
 <Html>
-<Title>This is Master title</Title>
+<title>This is issue title</title>
 <Body></Body>
 </Html>
