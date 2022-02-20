@@ -1,4 +1,6 @@
 <Html>
 <title>This is issue title</title>
-<Body></Body>
+<Body>
+<H1>New</H1>
+</Body>
 </Html>
