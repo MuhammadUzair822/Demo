@@ -1,3 +1,4 @@
 <Html>
+<Title>This is Master title</Title>
 <Body></Body>
 </Html>
